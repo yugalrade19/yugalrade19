@@ -36,12 +36,6 @@ I'm a Data Science student who loves digging into real-world problems — from p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -73,8 +67,8 @@ I'm a Data Science student who loves digging into real-world problems — from p
 
 ## 🤝 Let's Connect
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data!
+Feel free to explore my repositories and reach out if you'd like to  discuss data!
 
 ---
 
-*"Without data, you're just another person with an opinion." – W. Edwards Deming*
+*"Without data, you're just another person with an opinion." 
